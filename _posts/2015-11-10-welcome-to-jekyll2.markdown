@@ -1,17 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll fil 2!"
+title:  "Extra bloggpost - så här såg min tisdag ut"
 date:   2015-11-10 11:21:56
 categories: jekyll update
 ---
-Det här är fil två i posts.
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+#Den här lite överblivna posten vet jag inte riktigt vad jag ska skriva om så jag kan därför passa på att redogöra kort för hur min dag sett ut.
+* Jag sov länge idag och vaknade vid nio, senare än vanligt och helt dödstrött.
+* Större delen av dagen har sedan gått åt till uppgiften TopGame i den andra kursen, inlämnad och klar så det känns bra.
+* Sedan några timmar har jag suttit med denna uppgift för att hinna klart åtminstone så pass att jag kan lämna in den.
+* Tjejen bakade muffins under tiden, lagade mat, tvättade och tog hand om kattbuset etc så jag har haft riktigt bra flyt med plugget idag och bra fokus på produktiviteten.
+* Nu blir det sista raden innan releasen tror jag. Wish me luck och lämna gärna en kommentar i det demonstrativa disqusformuläret. :)
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
+#För att det ska se lite coolt ut finns här också en ruta med demokod:
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
@@ -20,9 +21,7 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
-<script id="dsq-count-scr" src="//hl222mn.disqus.com/count.js" async></script>
 
 
 [jekyll]:      http://jekyllrb.com

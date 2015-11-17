@@ -38,18 +38,7 @@ som jag fann lättare att förstå än själva instruktionerna på disqus, så n
 Jag har lagt mina kommentarsfält på `post.html och `page.html` i mappen `_layouts`, då kommer de med överallt där jag vill ha dem.
 
 #Vad är `open graph` och hur använder jag det?
+Open graph är den info som dyker upp i samband med delningar, i mitt fall har jag angett beskrivningen jag vill visa i config-filen för att den senare ska hämtas från exvis facebook när man delar en länk.
+Återstår att se om det fungerar efter uppladdning till github/pages.
 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
