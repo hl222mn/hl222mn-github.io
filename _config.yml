@@ -1,0 +1,13 @@
+# Site settings
+title: Henrik Larsson
+email: hl222mn@student.lnu.se
+description: > # this means to ignore newlines until "baseurl:"
+  Välkommen hit! Här kan du som besökare frottera i allt från fantastisk webdesign till få briljanta svar på diverse frågor ställda av kursledningen i 1DV022.
+  Den ihärdigt tålmodige kan eventuellt också få se både ändringar och tillskott på denna härliga webbplats.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown

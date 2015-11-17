@@ -1,0 +1,29 @@
+/* TEAM */
+
+Programmer: Henrik Larsson
+
+
+LNU: hl222mn@student.lnu.se
+Location: Stockholm, Sweden.
+
+
+
+                        [...]
+
+
+
+/* THANKS */
+
+To Estrid the cat.
+
+
+
+                        [...]
+
+
+
+/* SITE */
+
+
+Last update: YYYY/MM/DD
+Built in Jekyll
