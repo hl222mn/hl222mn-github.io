@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mål
-permalink: /about/
+permalink: /goals/
 ---
 #Mål:
 
